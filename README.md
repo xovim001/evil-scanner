@@ -20,3 +20,10 @@ python evil-scanner.py --t (Target IP/IP range)
 Examples
 ========
 python evil-scanner.py --target 192.168.0.1/24
+
+
+Bugs & Contact
+==============
+
+Feel free to mail me with any problem, bug, suggestions or fixes at:
+Sazzad Ovi <ovisecret@gmail.com>
